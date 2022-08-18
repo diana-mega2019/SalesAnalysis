@@ -1,3 +1,3 @@
-# SalesAnalysys
+# SalesAnalysis
 
 Some description.
